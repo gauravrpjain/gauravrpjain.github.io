@@ -1,0 +1,57 @@
+baseurl = "https://gauravrpjain.github.io/"
+title = "Gaurav Jain's personal site"
+author = "Gaurav Jain"
+canonifyurls = true
+languagecode = "en"
+paginate = 3
+theme = "hugo-nanx2020"
+
+enableEmoji = true
+hasCJKLanguage = true
+
+# googleAnalytics = "UA-00000000-1"
+# disqusShortname = "your-disqus-shortname"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$","\\.knit\\.md$","\\.utf8\\.md$"]
+
+[params]
+pagetitle = "Gaurav Jain"
+copyright = "© 2020 Gaurav Jain"
+copyrightUrl = "https://gauravrpjain.github.io/"
+faviconfile = "image/favicon.png"
+logofile = "image/avatar.png"
+posts_navigation = true
+uselatex = true
+highlightjs = true
+progressively = false
+
+github = "gauravrpjain"
+twitter = "gauravrpjain"
+linkedin = "gauravrpjain"
+#email = "example@example.com"
+
+[[menu.primary]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.primary]]
+identifier = "publications"
+name = "Publications"
+url = "/publications/"
+weight = 2
+
+[[menu.primary]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 3
+
+#[[menu.primary]]
+#identifier = "resume"
+#name = "Resume"
+#url = "/resume/"
+#weight = 4
+
+
