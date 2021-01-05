@@ -3,22 +3,22 @@
     "path": "C:/Users/Gaurav Jain/Desktop/gauravrpjain.github.io/config.toml",
     "project_path": "config.toml",
     "type": "toml",
-    "hash": "0",
+    "hash": "2245573580",
     "contents": "",
     "dirty": false,
     "created": 1606064798303.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "cursorPosition": "10,0",
-        "scrollLine": "0"
+        "cursorPosition": "47,7",
+        "scrollLine": "35"
     },
     "folds": "",
-    "lastKnownWriteTime": 1608122652,
+    "lastKnownWriteTime": 1609850742,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1608122652857,
+    "last_content_update": 1609850742264,
     "read_only": false,
     "read_only_alternatives": []
 }

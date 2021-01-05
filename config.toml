@@ -1,4 +1,4 @@
-baseurl = "https://gauravrpjain.github.io/"
+#baseurl = ""
 title = "Gaurav Jain's personal site"
 author = "Gaurav Jain"
 canonifyurls = true
@@ -33,19 +33,19 @@ linkedin = "gauravrpjain"
 [[menu.primary]]
 identifier = "about"
 name = "About"
-url = "/about/"
+url = "about/index.html"
 weight = 1
 
 [[menu.primary]]
 identifier = "publications"
 name = "Publications"
-url = "/publications/"
+url = "publications/index.html"
 weight = 2
 
 [[menu.primary]]
 identifier = "projects"
 name = "Projects"
-url = "/projects/"
+url = "projects/index.html"
 weight = 3
 
 #[[menu.primary]]
